@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""GuangLi Li"
+title: ""GuangLi Li (李广力)"
 excerpt: "Guangli Li"
 author_profile: true
 redirect_from: 
@@ -54,3 +54,20 @@ I am an Assistant Professor at the State Key Lab of Processors, Institute of Com
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+[1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
+[2]:http://ccst.jlu.edu.cn/info/1312/12891.htm
+[3]:http://people.ucas.ac.cn/~fengxiaobing
+[4]:http://www.ict.ac.cn/
+[5]:http://www.carch.ac.cn/
+[6]:http://ccst.jlu.edu.cn/info/1026/2150.htm
+[101]:http://www.benchcouncil.org/bench19/index.html
+[102]:https://2020.euro-par.org/
+[103]:https://conf.researchr.org/home/cgo-2021
+[104]:https://oaciss.uoregon.edu/icpp21/index.php
+[105]:http://www.cloud-conf.net/ispa2021/
+[106]:https://www.sciencedirect.com/journal/journal-of-systems-architecture
+[107]:https://jcst.ict.ac.cn/EN/1000-9000/home.shtml
+[108]:https://dl.acm.org/journal/taco
+[109]:https://www.journals.elsevier.com/neurocomputing
+[999]:https://liguangli.me
