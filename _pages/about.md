@@ -16,43 +16,80 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am an Assistant Professor at the State Key Lab of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and B.S. and M.S. from the College of Computer Science and Technology, Jilin University. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging applications and accelerators. I have published more than 30 papers at international journals/conferences with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=2rjYw64AAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=2rjYw64AAAAJ&hl=zh-CN&oi=ao)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am an Assistant Professor at the State Key Lab of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and B.S. and M.S. from the College of Computer Science and Technology, Jilin University. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging applications and accelerators.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Nov 2023*: &nbsp;🎉🎉 *Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs* is accepted by [TACO (CCF-A)][108].   
+- *Nov 2023*: &nbsp;🎉🎉 *Optimizing Dynamic-Shape Neural Networks on Accelerators via On-the-Fly Micro-Kernel Polymerization* is conditionally accepted by [ASPLOS 2024 (CCF-A)][999].
+- *Aug 2023*: &nbsp;🎉🎉 *CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks* is accepted by [JSA (CCF-B)][106].
+- *Feb 2023*: &nbsp;🎉🎉 *Facilitating hardware-aware neural architecture search with learning-based predictive models* is accepted by [JSA (CCF-B)][106].
+- *Jul 2022*: &nbsp;🎉🎉 *Accelerating deep neural network filter pruning with mask-aware convolutional computations on modern CPUs* is accepted by [Neurocomputing (CCF-C)][109].
+- *May 2022*: &nbsp;🎉🎉 *An application-oblivious memory scheduling system for DNN accelerators* is accepted by [TACO (CCF-A)][108].
+- *Jan 2022*: &nbsp;🎉🎉 *Optimizing deep neural networks on intelligent edge accelerators via flexible-rate filter pruning* is accepted by [JSA (CCF-B)][106]. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+* **[[TACO'23]][999]** Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. *Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs*. ACM Transactions on Architecture and Code Optimization, 2023.
+* **[[TCAD'23]][999]** Xiaohui Wei, Nan Jiang, Hengshan Yue, Xiaonan Wang, Jianpeng Zhao, **Guangli Li**, Meikang Qiu. *ApproxDup: Developing an approximate instruction duplication mechanism for efficient SDC detection in GPGPUs*. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023.  
+* **[[JSA'23]][999]** **Guangli Li**, Xiu Ma, Qiuchu Yu, Lei Liu, Huaxiao Liu, Xueying Wang. *CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks*. Journal of Systems Architecture, 2023: 102978.
+* **[[CCF-THPC'23]][999]** Xiaohui Wei, Xinyang Zheng, Chenyang Wang, **Guangli Li**, Hengshan Yue. *FASS-pruner: Customizing a fine-grained CNN accelerator-aware pruning framework via intra-filter splitting and inter-filter shuffling*. CCF Transactions on High Performance Computing, 2023: 1-12.
+* **[[JSA'23]][999]** Xueying Wang, **Guangli Li\***, Xiu Ma, Xiaobing Feng. *Facilitating hardware-aware neural architecture search with learning-based predictive models*. Journal of Systems Architecture, 2023, 137: 102838.
+* **[[NEUCOM'22]][999]** Xiu Ma, **Guangli Li\***, Lei Liu, Huaxiao Liu, Xueying Wang. *Accelerating deep neural network filter pruning with mask-aware convolutional computations on modern CPUs*. Neurocomputing, 2022, 505: 375-387.
+* **[[TACO'22]][999]** Jiansong Li, Xueying Wang, Xiaobing Chen, **Guangli Li\***, Xiao Dong, Peng Zhao, Xianzhi Yu, Yongxin Yang, Wei Cao, Lei Liu, Xiaobing Feng. *An application-oblivious memory scheduling system for DNN accelerators*. ACM Transactions on Architecture and Code Optimization, 2022: 1-26.
+* **[[JSA'22]][999]** **Guangli Li**, Xiu Ma, Xueying Wang, Hengshan Yue, Jiansong Li, Lei Liu, Xiaobing Feng, Jingling Xue. *Optimizing deep neural networks on intelligent edge accelerators via flexible-rate filter pruning*. Journal of Systems Architecture, 2022, 124: 102431.
+* **[[JCST'22]][999]** Lei Liu, Xiu Ma, Huaxiao Liu, **Guangli Li**, and Lei Liu. *FlexPDA: A flexible programming framework for deep learning accelerators*. Journal of Computer Science and Technology, 2022, 37(5): 1200-1220.
+* **[[ICPP'21]][999]** **Guangli Li**, Zhen Jia, Xiaobing Feng, Yida Wang. *LoWino: Towards efficient low-precision Winograd convolutions on modern CPUs*. International Conference on Parallel Processing, 2021: 1-11.
+* **[[CGO'21]][999]** **Guangli Li**, Jingling Xue, Lei Liu, Xueying Wang, Xiu Ma, Xiao Dong, Jiansong Li, Xiaobing Feng. *Unleashing the low-precision computation potential of Tensor Cores on GPUs*. International Symposium on Code Generation and Optimization, 2021: 90-102.
+* **[[SC'21]][999]** Hengshan Yue, Xiaohui Wei, **Guangli Li**, Jianpeng Zhao, Nan Jiang, Jingweijia Tan. *G-SEPM: Building an accurate and efficient soft error prediction model for GPGPUs*.  International Conference for High Performance Computing, Networking, Storage and Analysis, 2021: 1-15.
+* **[[ISPA'21]][999]** Xiu Ma, **Guangli Li\***, Lei Liu, Huaxiao Liu, Xiaobing Feng. *Understanding the runtime overheads of deep learning inference on edge devices*. International Symposium on Parallel and Distributed Processing with Applications, 2021: 390-397.
+* **[[IJPP'21]][999]** Jiansong Li, Wei Cao, Xiao Dong, **Guangli Li**, Xueying Wang, Peng Zhao, Lei Liu, Xiaobing Feng. *Compiler-assisted operator template library for DNN accelerators*. International Journal of Parallel Programming, 2021: 628-645.
+* **[[TCAD'20]][999]** **Guangli Li**, Xiu Ma, Xueying Wang, Lei Liu, Jingling Xue, Xiaobing Feng. *Fusion-catalyzed pruning for optimizing deep learning on intelligent edge devices*. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020: 3614-3626.  
+* **[[ICASSP'20]][999]** **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. *LANCE: Efficient low-precision quantized Winograd convolution for neural networks based on graphics processing units*. IEEE International Conference on Acoustics, Speech and Signal Processing, 2020: 3842-3846.
+* **[[Euro-Par'20]][999]** Xueying Wang, **Guangli Li**, Xiao Dong, Jiansong Li, Lei Liu and Xiaobing Feng. *Accelerating deep learning inference with cross-layer data reuse on GPUs*. International European Conference on Parallel and Distributed Computing, 2020: 219-233.
+* **[[ISPA'20]][999]** Jiansong Li, Zihan Jiang, Fangxin Liu, Xiao Dong, **Guangli Li**, Xueying Wang, Wei Cao, Lei Liu, Yanzhi Wang, Tao Li, Xiaobing Feng. *Characterizing the I/O pipeline in the deployment of CNNs on commercial accelerators*. International Symposium on Parallel and Distributed Processing with Applications, 2020: 137-144.
+* **[[Bench'19]][999]** **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. *XDN: Towards efficient inference of residual neural networks on Cambricon chips*. International Symposium on Benchmarking, Measuring and Optimization, 2019: 51-56.
+* **[[PACT'19]][999]** Xiao Dong, Lei Liu, Peng Zhao, **Guangli Li**, Jiansong Li, Xueying Wang, Xiaobing Feng. *Acorns: A framework for accelerating deep neural networks with input sparsity*. International Conference on Parallel Architectures and Compilation Techniques, 2019: 178-191.
+* **[[ICANN'18]][999]** **Guangli Li**, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng. *Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge*. International Conference on Artificial Neural Networks, 2018: 402-411.
+* **[[ICANN'18]][999]** Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. *Fast CNN pruning via redundancy-aware training*. International Conference on Artificial Neural Networks, 2018: 3-13.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📖 Teaching
+* Teaching Assistant, Compilers: Principles, Techniques & Tools.   
+  (for undergraduate students. 2018, 2020, 2022, and 2023, University of Chinese Academy of Sciences)
+* Teaching Assistant, Open Innovation Experiment Project.   
+  (for undergraduate students. 2015 and 2016, Jilin University)
+* Teaching Assistant, Compiler Construction Principle and Implementation Technique.   
+  (for undergraduate students. 2015, Jilin University)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# Funding & Grants
+* *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
+National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026
+* *Research on AI Compilation Technologies Integrating Differentiation and Approximation Characteristics.*  
+China Postdoctoral Science Foundation, PI, 2023-2024.
+* *Efficient Automatic Differentiation Frameworks on AI Processors.*  
+CCF-Huawei Populus Grove Fund, PI, 2022-2023.
+* *Deep Learning Compilers based on Approximate Computing.*  
+CCF-Baidu Open Fund, PI, 2022-2023.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# Professional Services
+* Artifact Evaluation Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2022*  
+* Program Committee Member for *BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench), 2022, 2023*  
+* Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*  
+* Journal Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)* 
+* Journal Reviewer for *IEEE Transactions on Sustainable Computing (TSUSC)*
+* Journal Reviewer for *IEEE Transactions on Artificial Intelligence (TAI)* 
+* Journal Reviewer for *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*
+* Journal Reviewer for *ACM Transactions on Knowledge Discovery from Data (TKDD)*
+* Journal Reviewer for *Journal of Systems Architecture (JSA)*
+* Journal Reviewer for *BenchCouncil Transactions on Benchmarks, Standards and Evaluations*
+* Journal Reviewer for *IEEE Internet of Things Journal*
+* Journal Reviewer for *Machine Intelligence Research* 
+* Journal Reviewer for *Neurocomputing* 
+* Journal Reviewer for *Electronics Letters*
+* Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019, 2020, 2021, and 2022
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Contact
+* Email: liguangli [at] ict.ac.cn
+* Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
 
 [1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
 [2]:http://ccst.jlu.edu.cn/info/1312/12891.htm
