@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guangli Li"
-description              : "Assistant Professor at Institute of Computing Technology, Chinese Academy of Sciences "
+description              : 
 repository               : "Gxllii.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=2rjYw64AAAAJ&hl=zh-CN"
   email            : "liguangli@ict.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Guangli-Li-2"
+  researchgate     : #"https://www.researchgate.net/profile/Guangli-Li-2"
   uri              :
   bitbucket        :
   codepen          :
