@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 I am an Assistant Professor at the State Key Lab of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and B.S. and M.S. from the College of Computer Science and Technology, Jilin University. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging applications and accelerators.
 
@@ -60,7 +53,7 @@ I am an Assistant Professor at the State Key Lab of Processors, Institute of Com
 * Teaching Assistant, Compiler Construction Principle and Implementation Technique.   
   (for undergraduate students. 2015, Jilin University)
 
-# Funding & Grants
+# 📑 Funding & Grants
 * *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
 National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026
 * *Research on AI Compilation Technologies Integrating Differentiation and Approximation Characteristics.*  
@@ -70,7 +63,7 @@ CCF-Huawei Populus Grove Fund, PI, 2022-2023.
 * *Deep Learning Compilers based on Approximate Computing.*  
 CCF-Baidu Open Fund, PI, 2022-2023.
 
-# Professional Services
+# 🧮 Professional Services
 * Artifact Evaluation Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2022*  
 * Program Committee Member for *BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench), 2022, 2023*  
 * Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*  
@@ -87,7 +80,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *Electronics Letters*
 * Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019, 2020, 2021, and 2022
 
-# Contact
+# ✉️ Contact
 * Email: liguangli [at] ict.ac.cn
 * Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
 
