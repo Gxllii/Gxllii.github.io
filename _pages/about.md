@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""GuangLi Li (李广力)"
+title: ""GuangLi Li"
 excerpt: "Guangli Li"
 author_profile: true
 redirect_from: 
