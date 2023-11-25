@@ -53,7 +53,7 @@ I am an Assistant Professor at the State Key Lab of Processors, Institute of Com
 * Teaching Assistant, Compiler Construction Principle and Implementation Technique.   
   (for undergraduate students. 2015, Jilin University)
 
-# 📑 Funding & Grants
+# 📑 Funding and Grants
 * *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
 National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026
 * *Research on AI Compilation Technologies Integrating Differentiation and Approximation Characteristics.*  
