@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""GuangLi Li (李广力)"
-excerpt: "Guangli Li"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 I am an Assistant Professor at the State Key Lab of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and B.S. and M.S. from the College of Computer Science and Technology, Jilin University. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging applications and accelerators. I have published more than 30 papers at international journals/conferences with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=2rjYw64AAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=2rjYw64AAAAJ&hl=zh-CN&oi=ao)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
