@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am an Assistant Professor at the State Key Lab of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and B.S. and M.S. from the College of Computer Science and Technology, Jilin University. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging applications and accelerators.
+I am an Assistant Professor at the State Key Lab of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and B.S. and M.S. from the College of Computer Science and Technology, Jilin University.   
+I am a member of the programming languages and compilers group at ICT, CAS. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging applications and accelerators.
 
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
