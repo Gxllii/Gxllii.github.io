@@ -25,7 +25,7 @@ I am an Assistant Professor at the State Key Lab of Processors, Institute of Com
 # 📝 Publications 
 
 * ``TACO 2023`` Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. *Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs*. ACM Transactions on Architecture and Code Optimization, 2023.
-* **[[TCAD'23]][999]** Xiaohui Wei, Nan Jiang, Hengshan Yue, Xiaonan Wang, Jianpeng Zhao, **Guangli Li**, Meikang Qiu. *ApproxDup: Developing an approximate instruction duplication mechanism for efficient SDC detection in GPGPUs*. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023.  
+* ``TCAD 2023`` Xiaohui Wei, Nan Jiang, Hengshan Yue, Xiaonan Wang, Jianpeng Zhao, **Guangli Li**, Meikang Qiu. *ApproxDup: Developing an approximate instruction duplication mechanism for efficient SDC detection in GPGPUs*. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023.  
 * **[[JSA'23]][999]** **Guangli Li**, Xiu Ma, Qiuchu Yu, Lei Liu, Huaxiao Liu, Xueying Wang. *CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks*. Journal of Systems Architecture, 2023: 102978.
 * **[[CCF-THPC'23]][999]** Xiaohui Wei, Xinyang Zheng, Chenyang Wang, **Guangli Li**, Hengshan Yue. *FASS-pruner: Customizing a fine-grained CNN accelerator-aware pruning framework via intra-filter splitting and inter-filter shuffling*. CCF Transactions on High Performance Computing, 2023: 1-12.
 * **[[JSA'23]][999]** Xueying Wang, **Guangli Li\***, Xiu Ma, Xiaobing Feng. *Facilitating hardware-aware neural architecture search with learning-based predictive models*. Journal of Systems Architecture, 2023, 137: 102838.
