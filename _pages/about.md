@@ -14,13 +14,13 @@ I am an Assistant Professor at the State Key Lab of Processors, Institute of Com
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
-- *Nov 2023*: &nbsp;🎉 *Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs* is accepted by [TACO (CCF-A)][108].   
-- *Nov 2023*: &nbsp;🎉 *Optimizing Dynamic-Shape Neural Networks on Accelerators via On-the-Fly Micro-Kernel Polymerization* is conditionally accepted by [ASPLOS 2024 (CCF-A)][999].
-- *Aug 2023*: &nbsp;🎉 *CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks* is accepted by [JSA (CCF-B)][106].
-- *Feb 2023*: &nbsp;🎉 *Facilitating hardware-aware neural architecture search with learning-based predictive models* is accepted by [JSA (CCF-B)][106].
-- *Jul 2022*: &nbsp;🎉 *Accelerating deep neural network filter pruning with mask-aware convolutional computations on modern CPUs* is accepted by [Neurocomputing (CCF-C)][109].
-- *May 2022*: &nbsp;🎉 *An application-oblivious memory scheduling system for DNN accelerators* is accepted by [TACO (CCF-A)][108].
-- *Jan 2022*: &nbsp;🎉 *Optimizing deep neural networks on intelligent edge accelerators via flexible-rate filter pruning* is accepted by [JSA (CCF-B)][106]. 
+- *2023.11*: 🎉 LoWino is accepted by [TACO (CCF-A)][108].   
+- *2023.11*: 🎉 MikPoly is conditionally accepted by [ASPLOS 2024 (CCF-A)][999].
+- *2023.08*: 🎉 CoAxNN is accepted by [JSA (CCF-B)][106].
+- *2023.02*: 🎉 LBPM-NAS is accepted by [JSA (CCF-B)][106].
+- *2022.07*: 🎉 MaskACC is accepted by [Neurocomputing (CCF-C)][109].
+- *2022.05*: 🎉 AppObMem is accepted by [TACO (CCF-A)][108].
+- *2022.01*: 🎉 FlexPruner is accepted by [JSA (CCF-B)][106]. 
 
 # 📝 Publications 
 
