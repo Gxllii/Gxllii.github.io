@@ -65,7 +65,7 @@ CCF-Huawei Populus Grove Fund, PI, 2022-2023.
 * *Deep Learning Compilers based on Approximate Computing.*  
 CCF-Baidu Open Fund, PI, 2022-2023.
 
-# 🧮 Professional Services
+# 🏢 Professional Services
 * Artifact Evaluation Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2022*  
 * Program Committee Member for *BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench), 2022, 2023*  
 * Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*  
