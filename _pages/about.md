@@ -25,7 +25,7 @@ I am a member of the programming languages and compilers group at ICT, CAS. My r
 
 # 📝 Publications 
 
-* ``ASPLOS'24`` [Optimizing Dynamic-Shape Neural Networks on Accelerators via On-the-Fly Micro-Kernel Polymerization][999]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024. (Conditionally Accepted)  
+* ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][999]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024. (Conditionally Accepted)  
 * ``TACO'23`` [Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs][999]. Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. ACM Transactions on Architecture and Code Optimization, 2023.
 * ``TCAD'23`` [ApproxDup: Developing an approximate instruction duplication mechanism for efficient SDC detection in GPGPUs][999]. Xiaohui Wei, Nan Jiang, Hengshan Yue, Xiaonan Wang, Jianpeng Zhao, **Guangli Li**, Meikang Qiu. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023.  
 * ``JSA'23`` [CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks][999]. **Guangli Li**, Xiu Ma, Qiuchu Yu, Lei Liu, Huaxiao Liu, Xueying Wang. Journal of Systems Architecture, 2023: 102978.
