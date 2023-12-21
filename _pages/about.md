@@ -24,6 +24,7 @@ I am a member of the programming languages and compilers group at ICT, CAS. My r
 - *2022.01*: 🎉 FlexPruner is accepted by [JSA (CCF-B)][106]. 
 
 # 📝 Publications 
+(*\* indicates the corresponding author*)
 
 * ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][999]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024. (Conditionally Accepted)  
 * ``TACO'23`` [Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs][999]. Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. ACM Transactions on Architecture and Code Optimization, 2023.
