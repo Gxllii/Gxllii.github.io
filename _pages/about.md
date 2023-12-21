@@ -63,6 +63,8 @@ I am a member of the programming languages and compilers group at ICT, CAS. My r
 National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026
 * *Research on AI Compilation Technologies Integrating Differentiation and Approximation Characteristics.*  
 China Postdoctoral Science Foundation, PI, 2023-2024.
+* *Research on Neural Network Model Compression-Compilation Co-optimization Technologies.*  
+Postdoctoral Fund of SKLP (ICT, CAS), PI, 2023-2024.
 * *Efficient Automatic Differentiation Frameworks on AI Processors.*  
 CCF-Huawei Populus Grove Fund, PI, 2022-2023.
 * *Deep Learning Compilers based on Approximate Computing.*  
