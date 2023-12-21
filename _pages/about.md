@@ -60,7 +60,7 @@ I am a member of the programming languages and compilers group at ICT, CAS. My r
 
 # 📑 Funding and Grants
 * *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
-National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026
+National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026.
 * *Research on AI Compilation Technologies Integrating Differentiation and Approximation Characteristics.*  
 China Postdoctoral Science Foundation, PI, 2023-2024.
 * *Research on Neural Network Model Compression-Compilation Co-optimization Technologies.*  
