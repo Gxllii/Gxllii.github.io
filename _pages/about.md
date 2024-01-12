@@ -86,7 +86,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *IEEE Internet of Things Journal (IoT-J)*
 * Journal Reviewer for *Machine Intelligence Research (MIR)* 
 * Journal Reviewer for *Neurocomputing* 
-* Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019, 2020, 2021, and 2022
+* Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019-2022
 
 # ✉️ Contact
 * Email: liguangli [at] ict.ac.cn
