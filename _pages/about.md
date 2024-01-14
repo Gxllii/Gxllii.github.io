@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group at ICT, CAS. My r
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2024.01*: 🎉 Our work on characterizing DNN batching systems is accepted by [TBench][110].
 - *2023.11*: 🎉 LoWino is accepted by [TACO (CCF-A)][108].   
 - *2023.11*: 🎉 MikPoly is conditionally accepted by [ASPLOS 2024 (CCF-A)][999].
 - *2023.08*: 🎉 CoAxNN is accepted by [JSA (CCF-B)][106].
@@ -26,7 +27,7 @@ I am a member of the programming languages and compilers group at ICT, CAS. My r
 # 📝 Publications 
 (*\* indicates the corresponding author*)
 * ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][999]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024. (Conditionally Accepted)  
-* ``TBench'24`` [Characterizing and understanding deep neural network batching systems on GPUs][999]. Feng Yu, Hao Zhang, Ao Chen, Xueying Wang, Xiaoxia Liang, Sheng Wang, **Guangli Li\***, Huimin Cui, Xiaobing Feng. BenchCouncil Transactions on Benchmarks, Standards and Evaluations, 2024. (Accepted)
+* ``TBench'24`` [Characterizing and understanding deep neural network batching systems on GPUs][223]. Feng Yu, Hao Zhang, Ao Chen, Xueying Wang, Xiaoxia Liang, Sheng Wang, **Guangli Li\***, Huimin Cui, Xiaobing Feng. BenchCouncil Transactions on Benchmarks, Standards and Evaluations, 2024.
 * ``TACO'23`` [Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs][222]. Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. ACM Transactions on Architecture and Code Optimization, 2023.
 * ``TCAD'23`` [ApproxDup: Developing an approximate instruction duplication mechanism for efficient SDC detection in GPGPUs][221]. Xiaohui Wei, Nan Jiang, Hengshan Yue, Xiaonan Wang, Jianpeng Zhao, **Guangli Li**, Meikang Qiu. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2023.  
 * ``JSA'23`` [CoAxNN: Optimizing on-device deep learning with conditional approximate neural networks][220]. **Guangli Li**, Xiu Ma, Qiuchu Yu, Lei Liu, Huaxiao Liu, Xueying Wang. Journal of Systems Architecture, 2023: 102978.
@@ -107,6 +108,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 [107]:https://jcst.ict.ac.cn/EN/1000-9000/home.shtml
 [108]:https://dl.acm.org/journal/taco
 [109]:https://www.journals.elsevier.com/neurocomputing
+[110]:https://www.sciencedirect.com/journal/benchcouncil-transactions-on-benchmarks-standards-and-evaluations
 [201]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_1
 [202]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40
 [203]:https://ieeexplore.ieee.org/abstract/document/8891649/
@@ -129,4 +131,5 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 [220]:https://www.sciencedirect.com/science/article/abs/pii/S1383762123001571
 [221]:https://ieeexplore.ieee.org/abstract/document/10312777
 [222]:https://dl.acm.org/doi/abs/10.1145/3632956
+[223]:https://www.sciencedirect.com/science/article/pii/S2772485924000036
 [999]:https://gxllii.github.io/
