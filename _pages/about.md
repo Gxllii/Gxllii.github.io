@@ -85,7 +85,8 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *The Journal of Supercomputing (TJSC)*  
 * Journal Reviewer for *BenchCouncil Transactions on Benchmarks, Standards and Evaluations (TBench)*
 * Journal Reviewer for *IEEE Internet of Things Journal (IoT-J)*
-* Journal Reviewer for *Machine Intelligence Research (MIR)* 
+* Journal Reviewer for *Machine Intelligence Research (MIR)*
+* Journal Reviewer for *Knowledge-Based Systems* 
 * Journal Reviewer for *Neurocomputing* 
 * Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019-2022
 
