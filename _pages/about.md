@@ -20,9 +20,6 @@ I am a member of the programming languages and compilers group at ICT, CAS. My r
 - *2023.11*: 🎉 MikPoly is conditionally accepted by [ASPLOS 2024 (CCF-A)][999].
 - *2023.08*: 🎉 CoAxNN is accepted by [JSA (CCF-B)][106].
 - *2023.02*: 🎉 LBPM-NAS is accepted by [JSA (CCF-B)][106].
-- *2022.07*: 🎉 MaskACC is accepted by [Neurocomputing (CCF-C)][109].
-- *2022.05*: 🎉 AppObMem is accepted by [TACO (CCF-A)][108].
-- *2022.01*: 🎉 FlexPruner is accepted by [JSA (CCF-B)][106]. 
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
