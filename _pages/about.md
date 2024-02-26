@@ -79,12 +79,13 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)* 
 * Journal Reviewer for *IEEE Transactions on Sustainable Computing (TSUSC)*
 * Journal Reviewer for *IEEE Transactions on Artificial Intelligence (TAI)*
+* Journal Reviewer for *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
+* Journal Reviewer for *IEEE Internet of Things Journal (IoT-J)*
 * Journal Reviewer for *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*
 * Journal Reviewer for *ACM Transactions on Knowledge Discovery from Data (TKDD)*
 * Journal Reviewer for *Journal of Systems Architecture (JSA)*
 * Journal Reviewer for *The Journal of Supercomputing (TJSC)*  
 * Journal Reviewer for *BenchCouncil Transactions on Benchmarks, Standards and Evaluations (TBench)*
-* Journal Reviewer for *IEEE Internet of Things Journal (IoT-J)*
 * Journal Reviewer for *Machine Intelligence Research (MIR)*
 * Journal Reviewer for *Knowledge-Based Systems* 
 * Journal Reviewer for *Neurocomputing* 
