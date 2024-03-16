@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am an Assistant Professor at the State Key Lab of Processors, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and received my M.S. degree and B.S. degree from the College of Computer Science and Technology, Jilin University.   
-I am a member of the programming languages and compilers group at ICT, CAS. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging AI applications and accelerators. I have published 30+ papers in prestigious conferences and journals such as ASPLOS, CGO, TACO, and TCAD.
+I am a member of the programming languages and compilers group (led by [Prof. Huimin Cui][7]) at ICT, CAS, and also a visiting fellow of PLC (led by [Prof. Jingling Xue][8]) at UNSW Sydney. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging AI applications and accelerators. I have published 30+ papers in prestigious conferences and journals such as ASPLOS, CGO, TACO, and TCAD.
 
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
@@ -100,6 +100,8 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 [4]:http://www.ict.ac.cn/
 [5]:http://www.carch.ac.cn/
 [6]:http://ccst.jlu.edu.cn/info/1026/2150.htm
+[7]:https://cuihuimin.github.io/
+[8]:https://www.cse.unsw.edu.au/~jingling/
 [101]:http://www.benchcouncil.org/bench19/index.html
 [102]:https://2020.euro-par.org/
 [103]:https://conf.researchr.org/home/cgo-2021
