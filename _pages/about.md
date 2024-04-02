@@ -26,7 +26,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
-* ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][999]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024. (Conditionally Accepted)  
+* ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][999]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024: 1-16. 
 * ``TACO'24`` [Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs][222]. Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. ACM Transactions on Architecture and Code Optimization, 2024: 1-26.
 * ``TCAD'24`` [ApproxDup: Developing an approximate instruction duplication mechanism for efficient SDC detection in GPGPUs][221]. Xiaohui Wei, Nan Jiang, Hengshan Yue, Xiaonan Wang, Jianpeng Zhao, **Guangli Li**, Meikang Qiu. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024: 1051-1064.  
 * ``TBench'23`` [Characterizing and understanding deep neural network batching systems on GPUs][223]. Feng Yu, Hao Zhang, Ao Chen, Xueying Wang, Xiaoxia Liang, Sheng Wang, **Guangli Li\***, Huimin Cui, Xiaobing Feng. BenchCouncil Transactions on Benchmarks, Standards and Evaluations, 2023: 100151.
