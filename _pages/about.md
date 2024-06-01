@@ -51,14 +51,6 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 * ``CCF-C`` ``ICANN'18`` [Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge][202]. **Guangli Li**, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng. International Conference on Artificial Neural Networks, 2018: 402-411.
 * ``CCF-C`` ``ICANN'18`` [Fast CNN pruning via redundancy-aware training][201]. Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. International Conference on Artificial Neural Networks, 2018: 3-13.
 
-# 📖 Teaching
-* Teaching Assistant, Compilers: Principles, Techniques & Tools.   
-  (for undergraduate students. 2018, 2020, 2022, and 2023, University of Chinese Academy of Sciences)
-* Teaching Assistant, Open Innovation Experiment Project.   
-  (for undergraduate students. 2015 and 2016, Jilin University)
-* Teaching Assistant, Compiler Construction Principle and Implementation Technique.   
-  (for undergraduate students. 2015, Jilin University)
-
 # 📑 Funding and Grants
 * *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
 National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026.
@@ -90,6 +82,20 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *Neurocomputing* 
 * Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019-2022
 
+# 📖 Teaching
+* Teaching Assistant, Compilers: Principles, Techniques & Tools.   
+  (for undergraduate students. 2018, 2020, 2022, and 2023, University of Chinese Academy of Sciences)
+* Teaching Assistant, Open Innovation Experiment Project.   
+  (for undergraduate students. 2015 and 2016, Jilin University)
+* Teaching Assistant, Compiler Construction Principle and Implementation Technique.   
+  (for undergraduate students. 2015, Jilin University)
+
+# 🎓 Education
+- *2018.09-2022.01*: Ph.D. student at the University of Chinese Academy of Sciences under the supervision of [Prof. Xiaobing Feng][3]    
+- *2016.09-2018.06*: Visiting student at ICT, CAS under the supervision of [Prof. Xiaobing Feng][3]  
+- *2015.09-2018.06*: M.E. student at Jilin University under the supervision of [Prof. Lei Liu][10] and [Prof. Shuai Lyu][11]     
+- *2011.09-2015.06*: B.S. student at Jilin University     
+
 # ✉️ Contact
 * Email: liguangli [at] ict.ac.cn
 * Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
@@ -103,6 +109,8 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 [7]:https://cuihuimin.github.io/
 [8]:https://www.cse.unsw.edu.au/~jingling/
 [9]:https://zhen-jia.github.io/
+[10]:https://ccst.jlu.edu.cn/info/1367/19052.htm
+[11]:https://ccst.jlu.edu.cn/info/1028/19120.htm
 [101]:http://www.benchcouncil.org/bench19/index.html
 [102]:https://2020.euro-par.org/
 [103]:https://conf.researchr.org/home/cgo-2021
