@@ -65,7 +65,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 
 # 🏢 Professional Services
 * Artifact Evaluation Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2022*  
-* Program Committee Member for *BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench), 2022, 2023*  
+* Program Committee Member for *BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench), 2022-2024*  
 * Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*
 * Journal Reviewer for *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)* 
 * Journal Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)* 
@@ -78,7 +78,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *The Journal of Supercomputing (TJSC)*  
 * Journal Reviewer for *BenchCouncil Transactions on Benchmarks, Standards and Evaluations (TBench)*
 * Journal Reviewer for *Machine Intelligence Research (MIR)*
-* Journal Reviewer for *Knowledge-Based Systems* 
+* Journal Reviewer for *Knowledge-Based Systems (KBS)* 
 * Journal Reviewer for *Neurocomputing* 
 * Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019-2022
 
