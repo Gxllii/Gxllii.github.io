@@ -9,12 +9,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Teaching"
-    url: "/#-teaching"
-
   - title: "Funding and Grants"
     url: "/#-funding-and-grants"
 
   - title: "Professional Services"
     url: "/#-professional-services"
 
+  - title: "Teaching"
+    url: "/#-teaching"
