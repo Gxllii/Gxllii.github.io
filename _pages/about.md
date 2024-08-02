@@ -55,7 +55,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 # 📑 Funding and Grants
 * *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
 National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026.
-* *Compiler Optimization for Dynamic-Shape Low-Precision LLM Operators*
+* *Compiler Optimization for Dynamic-Shape Low-Precision LLM Operators*  
 CCF-Tencent Open Fund, PI, 2024-2025.
 * *Research on AI Compilation Technologies Integrating Differentiation and Approximation Characteristics.*  
 China Postdoctoral Science Foundation, PI, 2023-2024.
