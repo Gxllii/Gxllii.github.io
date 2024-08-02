@@ -15,7 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
-- *2024.07*: 🎉 Thanks for the support of [CCF-Tencent Open Fund][111] for our research on optimizing LLM operators.
+- *2024.07*: 🎉 Thanks for the support of [CCF-Tencent Open Fund][111] for our research on LLM system optimization.
 - *2024.01*: 🎉 Our work on characterizing DNN batching systems is accepted by [TBench][110].
 - *2023.11*: 🎉 LoWino is accepted by [TACO (CCF-A)][108].   
 - *2023.11*: 🎉 MikPoly is conditionally accepted by [ASPLOS 2024 (CCF-A)][999].
