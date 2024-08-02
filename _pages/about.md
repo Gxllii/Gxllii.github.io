@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2024.07*: 🎉 Thanks for the support of [CCF-Tencent Open Fund][111] for our research on optimizing LLM operators.
 - *2024.01*: 🎉 Our work on characterizing DNN batching systems is accepted by [TBench][110].
 - *2023.11*: 🎉 LoWino is accepted by [TACO (CCF-A)][108].   
 - *2023.11*: 🎉 MikPoly is conditionally accepted by [ASPLOS 2024 (CCF-A)][999].
@@ -126,6 +127,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 [108]:https://dl.acm.org/journal/taco
 [109]:https://www.journals.elsevier.com/neurocomputing
 [110]:https://www.sciencedirect.com/journal/benchcouncil-transactions-on-benchmarks-standards-and-evaluations
+[111]:https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2024-07-31/828381.shtml
 [201]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_1
 [202]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40
 [203]:https://ieeexplore.ieee.org/abstract/document/8891649/
