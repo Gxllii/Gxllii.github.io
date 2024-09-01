@@ -76,6 +76,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *IEEE Transactions on Sustainable Computing (TSUSC)*
 * Journal Reviewer for *IEEE Transactions on Artificial Intelligence (TAI)*
 * Journal Reviewer for *IEEE Transactions on Consumer Electronics (TCE)*
+* Journal Reviewer for *IEEE Transactions on Industrial Informatics (TII)*   
 * Journal Reviewer for *IEEE Internet of Things Journal (IoT-J)*
 * Journal Reviewer for *IEEE Design & Test (D&T)*
 * Journal Reviewer for *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*
