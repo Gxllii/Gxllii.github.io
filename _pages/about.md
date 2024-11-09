@@ -101,7 +101,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 # 🎓 Education
 - *2018.09-2022.01*: Ph.D. student at the University of Chinese Academy of Sciences under the supervision of [Prof. Xiaobing Feng][3]    
 - *2016.09-2018.06*: Visiting student at ICT, CAS under the supervision of [Prof. Xiaobing Feng][3]  
-- *2015.09-2018.06*: M.E. student at Jilin University under the supervision of [Prof. Lei Liu][10] and [Prof. Shuai Lyu][11]     
+- *2015.09-2018.06*: M.E. student at Jilin University under the supervision of [Prof. Lei Liu][10] and [Prof. Shuai Lü][11]     
 - *2011.09-2015.06*: B.S. student at Jilin University     
 
 # ✉️ Contact
