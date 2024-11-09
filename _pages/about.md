@@ -118,7 +118,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 [8]:https://www.cse.unsw.edu.au/~jingling/
 [9]:https://zhen-jia.github.io/
 [10]:https://ccst.jlu.edu.cn/info/1367/19052.htm
-[11]:https://ccst.jlu.edu.cn/info/1028/19120.htm
+[11]:https://ccst.jlu.edu.cn/info/1367/19944.htm
 [101]:http://www.benchcouncil.org/bench19/index.html
 [102]:https://2020.euro-par.org/
 [103]:https://conf.researchr.org/home/cgo-2021
