@@ -27,7 +27,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
-* ``CCF-B`` ``COLING'25`` [ProSparse: Introducing and Enhancing Intrinsic Activation Sparsity within Large Language Models][225]. Chenyang Song, Xu Han, Zhengyan Zhang, Shengding Hu, Xiyu Shi, Kuai Li, Chen Chen, Zhiyuan Liu, **Guangli Li**, Tao Yang, Maosong Sun. International Conference on Computational Linguistics, 2025: 1-19.  
+* ``CCF-B`` ``COLING'25`` [ProSparse: Introducing and enhancing intrinsic activation sparsity within large language models][225]. Chenyang Song, Xu Han, Zhengyan Zhang, Shengding Hu, Xiyu Shi, Kuai Li, Chen Chen, Zhiyuan Liu, **Guangli Li**, Tao Yang, Maosong Sun. International Conference on Computational Linguistics, 2025: 1-19.  
 * ``CCF-A`` ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][224]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024: 797–812.   
 * ``CCF-A`` ``TACO'24`` [Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs][222]. Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. ACM Transactions on Architecture and Code Optimization, 2024: 1-26.
 * ``CCF-A`` ``TCAD'24`` [ApproxDup: Developing an approximate instruction duplication mechanism for efficient SDC detection in GPGPUs][221]. Xiaohui Wei, Nan Jiang, Hengshan Yue, Xiaonan Wang, Jianpeng Zhao, **Guangli Li**, Meikang Qiu. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024: 1051-1064.  
