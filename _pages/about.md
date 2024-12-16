@@ -82,6 +82,7 @@ CCF-Baidu Open Fund, PI, 2022-2023.
 * Journal Reviewer for *IEEE Design & Test (D&T)*
 * Journal Reviewer for *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*
 * Journal Reviewer for *ACM Transactions on Knowledge Discovery from Data (TKDD)*
+* Journal Reviewer for *ACM Computing Surveys (CSUR)*  
 * Journal Reviewer for *Journal of Systems Architecture (JSA)*
 * Journal Reviewer for *The Journal of Supercomputing (TJSC)*  
 * Journal Reviewer for *BenchCouncil Transactions on Benchmarks, Standards and Evaluations (TBench)*
