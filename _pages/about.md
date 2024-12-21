@@ -55,17 +55,17 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📑 Funding and Grants
 * *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
-National Natural Science Foundation of China (Young Scientists Fund), PI, 2024-2026.
+National Natural Science Foundation of China (Young Scientists Fund), Principal Investigator, 2024-2026.
 * *Compiler Optimization for Dynamic-Shape Operators of Low-Precision Quantized LLMs*  
-CCF-Tencent Rhino-Bird Open Research Fund, PI, 2024-2025.
+CCF-Tencent Rhino-Bird Open Research Fund, Principal Investigator, 2024-2025.
 * *Research on AI Compilation Technologies Integrating Differentiation and Approximation Characteristics.*  
-China Postdoctoral Science Foundation, PI, 2023-2024.
+China Postdoctoral Science Foundation, Principal Investigator, 2023-2024.
 * *Research on Neural Network Model Compression-Compilation Co-optimization Technologies.*  
-Postdoctoral Fund of SKLP (ICT, CAS), PI, 2023-2024.
+Postdoctoral Fund of SKLP (ICT, CAS), Principal Investigator, 2023-2024.
 * *Efficient Automatic Differentiation Frameworks on AI Processors.*  
-CCF-Huawei Populus Grove Fund, PI, 2022-2023.
+CCF-Huawei Populus Grove Fund, Principal Investigator, 2022-2023.
 * *Optimizing Deep Learning Systems with Approximate Computing.*  
-CCF-Baidu Open Fund, PI, 2022-2023.
+CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 
 # 🏢 Professional Services
 * Program Committee Member for *International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2024*
