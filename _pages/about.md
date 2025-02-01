@@ -77,6 +77,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 * Journal Reviewer for *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)* 
 * Journal Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)* 
 * Journal Reviewer for *IEEE Transactions on Sustainable Computing (TSUSC)*
+* Journal Reviewer for *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*  
 * Journal Reviewer for *IEEE Transactions on Artificial Intelligence (TAI)*
 * Journal Reviewer for *IEEE Transactions on Consumer Electronics (TCE)*
 * Journal Reviewer for *IEEE Transactions on Industrial Informatics (TII)*   
