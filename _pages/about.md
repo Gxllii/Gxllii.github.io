@@ -112,7 +112,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 
 # 🖥️ Experience
 - *2024.10-Present*: Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences  
-- *2022.01-2024.10*: Assistant professor at the Institute of Computing Technology, Chinese Academy of Sciences  
+- *2022.01-2024.10*: Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences  
 - *2020.06-2021.06*: Applied Scientist Intern at Amazon Web Services  
 
 # ✉️ Contact
