@@ -108,7 +108,12 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 - *2018.09-2022.01*: Ph.D. student at the University of Chinese Academy of Sciences under the supervision of [Prof. Xiaobing Feng][3]    
 - *2016.09-2018.06*: Visiting student at ICT, CAS under the supervision of [Prof. Xiaobing Feng][3]  
 - *2015.09-2018.06*: M.E. student at Jilin University under the supervision of [Prof. Lei Liu][10] and [Prof. Shuai Lü][11]     
-- *2011.09-2015.06*: B.S. student at Jilin University     
+- *2011.09-2015.06*: B.S. student at Jilin University
+
+# 🖥️ Experience
+- *2024.10-Present*: Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences  
+- *2022.01-2024.10*: Assistant professor at the Institute of Computing Technology, Chinese Academy of Sciences  
+- *2020.06-2021.06*: Applied Scientist Intern at Amazon Web Services  
 
 # ✉️ Contact
 * Email: liguangli [at] ict.ac.cn
