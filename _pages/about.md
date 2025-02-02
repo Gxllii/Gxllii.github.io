@@ -93,7 +93,8 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 * Journal Reviewer for *Knowledge-Based Systems (KBS)*
 * Journal Reviewer for *Neural Networks*   
 * Journal Reviewer for *Neurocomputing*
-* Journal Reviewer for *Engineering Applications of Artificial Intelligence*    
+* Journal Reviewer for *Engineering Applications of Artificial Intelligence*
+* Journal Reviewer for *Chinese Journal of Computers*  
 * Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019-2022
 
 # 📖 Teaching
