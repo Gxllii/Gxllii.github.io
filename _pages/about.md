@@ -25,7 +25,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
-* ``CCF-A`` ``TACO'25``  [OptiFX: Automatic optimization for convolutional neural networks with aggressive operator fusion on GPUs][999]. Xueying Wang, Shigang Li\*, Hao Qian, Fan Luo, Zhaoyang Hao, Tong Wu, Ruiyuan Xu, Huimin Cui, Xiaobing Feng, **Guangli Li\***, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2025: 1-25.   
+* ``CCF-A`` ``TACO'25``  [OptiFX: Automatic optimization for convolutional neural networks with aggressive operator fusion on GPUs][226]. Xueying Wang, Shigang Li\*, Hao Qian, Fan Luo, Zhaoyang Hao, Tong Wu, Ruiyuan Xu, Huimin Cui, Xiaobing Feng, **Guangli Li\***, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2025: 1-25.   
 * ``CCF-B`` ``COLING'25`` [ProSparse: Introducing and enhancing intrinsic activation sparsity within large language models][225]. Chenyang Song, Xu Han, Zhengyan Zhang, Shengding Hu, Xiyu Shi, Kuai Li, Chen Chen, Zhiyuan Liu, **Guangli Li**, Tao Yang, Maosong Sun. International Conference on Computational Linguistics, 2025: 1-19.  
 * ``CCF-A`` ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][224]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024: 797–812.   
 * ``CCF-A`` ``TACO'24`` [Fast convolution meets low precision: Exploring efficient quantized Winograd convolution on modern CPUs][222]. Xueying Wang, **Guangli Li\***, Zhen Jia, Xiaobing Feng, Yida Wang. ACM Transactions on Architecture and Code Optimization, 2024: 1-26.
@@ -164,4 +164,5 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [223]:https://www.sciencedirect.com/science/article/pii/S2772485924000036
 [224]:https://dl.acm.org/doi/10.1145/3620665.3640390
 [225]:https://arxiv.org/abs/2402.13516
+[226]:https://dl.acm.org/doi/10.1145/3716876
 [999]:https://gxllii.github.io/
