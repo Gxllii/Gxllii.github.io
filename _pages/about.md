@@ -71,30 +71,30 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 * Program Committee Member for *BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench), 2022-2024*  
 * Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*
 * Artifact Evaluation Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2022*  
-* Journal Reviewer for *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)* 
-* Journal Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)* 
-* Journal Reviewer for *IEEE Transactions on Sustainable Computing (TSUSC)*
-* Journal Reviewer for *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*  
-* Journal Reviewer for *IEEE Transactions on Artificial Intelligence (TAI)*
-* Journal Reviewer for *IEEE Transactions on Consumer Electronics (TCE)*
-* Journal Reviewer for *IEEE Transactions on Industrial Informatics (TII)*
-* Journal Reviewer for *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*  
-* Journal Reviewer for *IEEE Internet of Things Journal (IoT-J)*
-* Journal Reviewer for *IEEE Design & Test (D&T)*
-* Journal Reviewer for *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*
-* Journal Reviewer for *ACM Transactions on Knowledge Discovery from Data (TKDD)*
-* Journal Reviewer for *ACM Journal on Autonomous Transportation Systems (JATS)*  
-* Journal Reviewer for *ACM Computing Surveys (CSUR)*  
-* Journal Reviewer for *Journal of Systems Architecture (JSA)*
-* Journal Reviewer for *The Journal of Supercomputing (TJSC)*  
-* Journal Reviewer for *BenchCouncil Transactions on Benchmarks, Standards and Evaluations (TBench)*
-* Journal Reviewer for *Machine Intelligence Research (MIR)*
-* Journal Reviewer for *Knowledge-Based Systems (KBS)*
-* Journal Reviewer for *Neural Networks*   
-* Journal Reviewer for *Neurocomputing*
-* Journal Reviewer for *Engineering Applications of Artificial Intelligence*
-* Journal Reviewer for *Chinese Journal of Computers*  
-* Journal Reviewer for *Computer Science*, Excellent Peer Reviewer in 2019-2022
+* Journal Reviewer: *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*,
+*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*,
+*IEEE Transactions on Sustainable Computing (TSUSC)*,
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,
+*IEEE Transactions on Artificial Intelligence (TAI)*,
+*IEEE Transactions on Consumer Electronics (TCE)*,
+*IEEE Transactions on Industrial Informatics (TII)*,
+*IEEE Internet of Things Journal (IoT-J)*,
+*IEEE Design & Test (D&T)*,
+*ACM Transactions on Reconfigurable Technology and Systems (TRETS)*,
+*ACM Transactions on Knowledge Discovery from Data (TKDD)*,
+*ACM Journal on Autonomous Transportation Systems (JATS)*,
+*ACM Computing Surveys (CSUR)*,
+*Journal of Systems Architecture (JSA)*,
+*The Journal of Supercomputing (TJSC)*,
+*BenchCouncil Transactions on Benchmarks, Standards and Evaluations (TBench)*,
+*Machine Intelligence Research (MIR)*,
+*Knowledge-Based Systems (KBS)*,
+*Neural Networks*,
+*Neurocomputing*,
+*Engineering Applications of Artificial Intelligence*,
+*Chinese Journal of Computers*,
+*Computer Science (Excellent Peer Reviewer in 2019-2022)*.
 
 # 📖 Teaching
 * Teaching Assistant, Compilers: Principles, Techniques & Tools.   
