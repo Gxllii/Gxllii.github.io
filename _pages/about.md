@@ -72,6 +72,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 * Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*
 * Artifact Evaluation Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2022*  
 * Journal Reviewer: *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*,
+*IEEE Transactions on Parallel and Distributed Systems (TPDS)*,
 *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*,
 *IEEE Transactions on Sustainable Computing (TSUSC)*,
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 
@@ -81,6 +82,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *IEEE Transactions on Industrial Informatics (TII)*,
 *IEEE Internet of Things Journal (IoT-J)*,
 *IEEE Design & Test (D&T)*,
+*Transactions on Architecture and Code Optimization (TACO)*,
 *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*,
 *ACM Transactions on Knowledge Discovery from Data (TKDD)*,
 *ACM Journal on Autonomous Transportation Systems (JATS)*,
