@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2025.05*: 🎉 TopServe is accepted by [EURO-PAR (CCF-B)][112].
 - *2025.01*: 🎉 OptiFX is accepted by [TACO (CCF-A)][108].   
 - *2024.07*: 🎉 Thanks for the support of [CCF-Tencent Open Fund][111] for our research on LLM system optimization.
 - *2024.01*: 🎉 Our work on characterizing DNN batching systems is accepted by [TBench][110].
@@ -25,6 +26,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
+* ``CCF-B`` ``EURO-PAR'25`` [TopServe: Task-Operator Co-Scheduling for Efficient Multi-DNN Inference Serving on GPUs][999]. Ao Chen, **Guangli Li\***, Feng Yu, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International European Conference on Parallel and Distributed Computing, 2025.  
 * ``CCF-A`` ``TACO'25``  [OptiFX: Automatic optimization for convolutional neural networks with aggressive operator fusion on GPUs][226]. Xueying Wang, Shigang Li\*, Hao Qian, Fan Luo, Zhaoyang Hao, Tong Wu, Ruiyuan Xu, Huimin Cui, Xiaobing Feng, **Guangli Li\***, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2025: 1-25.   
 * ``CCF-B`` ``COLING'25`` [ProSparse: Introducing and enhancing intrinsic activation sparsity within large language models][225]. Chenyang Song, Xu Han, Zhengyan Zhang, Shengding Hu, Xiyu Shi, Kuai Li, Chen Chen, Zhiyuan Liu, **Guangli Li**, Tao Yang, Maosong Sun. International Conference on Computational Linguistics, 2025: 1-19.  
 * ``CCF-A`` ``ASPLOS'24`` [Optimizing dynamic-shape neural networks on accelerators via on-the-fly micro-kernel polymerization][224]. Feng Yu, **Guangli Li\***, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International Conference on Architectural Support for Programming Languages and Operating Systems, 2024: 797–812.   
@@ -45,7 +47,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 * ``IJPP'21`` [Compiler-assisted operator template library for DNN accelerators][209].  Jiansong Li, Wei Cao, Xiao Dong, **Guangli Li**, Xueying Wang, Peng Zhao, Lei Liu, Xiaobing Feng. International Journal of Parallel Programming, 2021: 628-645.
 * ``CCF-A`` ``TCAD'20`` [Fusion-catalyzed pruning for optimizing deep learning on intelligent edge devices][208].  **Guangli Li**, Xiu Ma, Xueying Wang, Lei Liu, Jingling Xue, Xiaobing Feng. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2020: 3614-3626.  
 * ``CCF-B`` ``ICASSP'20`` [LANCE: Efficient low-precision quantized Winograd convolution for neural networks based on graphics processing units][207]. **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. IEEE International Conference on Acoustics, Speech and Signal Processing, 2020: 3842-3846.
-* ``CCF-B`` ``Euro-Par'20`` [Accelerating deep learning inference with cross-layer data reuse on GPUs][206]. Xueying Wang, **Guangli Li**, Xiao Dong, Jiansong Li, Lei Liu and Xiaobing Feng. International European Conference on Parallel and Distributed Computing, 2020: 219-233.
+* ``CCF-B`` ``EURO-PAR'20`` [Accelerating deep learning inference with cross-layer data reuse on GPUs][206]. Xueying Wang, **Guangli Li**, Xiao Dong, Jiansong Li, Lei Liu and Xiaobing Feng. International European Conference on Parallel and Distributed Computing, 2020: 219-233.
 * ``CCF-C`` ``ISPA'20`` [Characterizing the I/O pipeline in the deployment of CNNs on commercial accelerators][205]. Jiansong Li, Zihan Jiang, Fangxin Liu, Xiao Dong, **Guangli Li**, Xueying Wang, Wei Cao, Lei Liu, Yanzhi Wang, Tao Li, Xiaobing Feng. International Symposium on Parallel and Distributed Processing with Applications, 2020: 137-144.
 * ``Bench'19`` [XDN: Towards efficient inference of residual neural networks on Cambricon chips][204]. **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. International Symposium on Benchmarking, Measuring and Optimization, 2019: 51-56.
 * ``CCF-B`` ``PACT'19`` [Acorns: A framework for accelerating deep neural networks with input sparsity][203]. Xiao Dong, Lei Liu, Peng Zhao, **Guangli Li**, Jiansong Li, Xueying Wang, Xiaobing Feng. International Conference on Parallel Architectures and Compilation Techniques, 2019: 178-191.
@@ -144,6 +146,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [109]:https://www.journals.elsevier.com/neurocomputing
 [110]:https://www.sciencedirect.com/journal/benchcouncil-transactions-on-benchmarks-standards-and-evaluations
 [111]:https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2024-07-31/828381.shtml
+[112]:https://2025.euro-par.org/
 [201]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_1
 [202]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40
 [203]:https://ieeexplore.ieee.org/abstract/document/8891649/
