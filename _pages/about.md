@@ -99,7 +99,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *Neurocomputing*,
 *Engineering Applications of Artificial Intelligence*,
 *Chinese Journal of Computers*,
-*Computer Science (Excellent Peer Reviewer in 2019-2022)*.
+*Computer Science*.
 
 # 📖 Teaching
 * Teaching Assistant, Compilers: Principles, Techniques & Tools.   
