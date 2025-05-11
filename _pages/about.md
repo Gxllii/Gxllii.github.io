@@ -77,6 +77,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *IEEE Transactions on Parallel and Distributed Systems (TPDS)*,
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*,
 *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*,
+*IEEE Transactions on Emerging Topics in Computing (TETC)*,
 *IEEE Transactions on Sustainable Computing (TSUSC)*,
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,
