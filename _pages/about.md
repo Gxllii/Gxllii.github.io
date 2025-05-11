@@ -86,7 +86,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *IEEE Transactions on Industrial Informatics (TII)*,
 *IEEE Internet of Things Journal (IoT-J)*,
 *IEEE Design & Test (D&T)*,
-*Transactions on Architecture and Code Optimization (TACO)*,
+*ACM Transactions on Architecture and Code Optimization (TACO)*,
 *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*,
 *ACM Transactions on Knowledge Discovery from Data (TKDD)*,
 *ACM Journal on Autonomous Transportation Systems (JATS)*,
