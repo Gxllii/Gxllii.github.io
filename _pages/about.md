@@ -69,6 +69,7 @@ CCF-Huawei Populus Grove Fund, Principal Investigator, 2022-2023.
 CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 
 # 🏢 Professional Services
+* Program Committee Member for *CCF HPC China 2025* 
 * Program Committee Member for *International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2024*
 * Program Committee Member for *BenchCouncil International Symposium On Benchmarking, Measuring And Optimizing (Bench), 2022-2025*  
 * Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*
