@@ -28,7 +28,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
-* ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-Shape DNN Optimization via Pareto-Aware MCTS for Graph Variants][999]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
+* ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-shape DNN optimization via Pareto-aware MCTS for graph variants][999]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
 * ``CCF-B`` ``EURO-PAR'25`` [TopServe: Task-operator co-scheduling for efficient multi-DNN inference serving on GPUs][999]. Ao Chen, **Guangli Li\***, Feng Yu, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International European Conference on Parallel and Distributed Computing, 2025.  
 * ``CCF-A`` ``TACO'25``  [OptiFX: Automatic optimization for convolutional neural networks with aggressive operator fusion on GPUs][226]. Xueying Wang, Shigang Li\*, Hao Qian, Fan Luo, Zhaoyang Hao, Tong Wu, Ruiyuan Xu, Huimin Cui, Xiaobing Feng, **Guangli Li\***, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2025: 1-27.   
 * ``CCF-B`` ``COLING'25`` [ProSparse: Introducing and enhancing intrinsic activation sparsity within large language models][225]. Chenyang Song, Xu Han, Zhengyan Zhang, Shengding Hu, Xiyu Shi, Kuai Li, Chen Chen, Zhiyuan Liu, **Guangli Li**, Tao Yang, Maosong Sun. International Conference on Computational Linguistics, 2025: 1-19.  
