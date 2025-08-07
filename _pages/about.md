@@ -86,10 +86,10 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *IEEE Transactions on Sustainable Computing (TSUSC)*,
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*,
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*,
-*IEEE Journal on Selected Areas in Communications (JSAC)*,
 *IEEE Transactions on Artificial Intelligence (TAI)*,
 *IEEE Transactions on Consumer Electronics (TCE)*,
 *IEEE Transactions on Industrial Informatics (TII)*,
+*IEEE Journal on Selected Areas in Communications (JSAC)*,
 *IEEE Internet of Things Journal (IoT-J)*,
 *IEEE Design & Test (D&T)*,
 *ACM Transactions on Architecture and Code Optimization (TACO)*,
@@ -107,6 +107,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *Neurocomputing*,
 *Engineering Applications of Artificial Intelligence*,
 *Expert Systems: The Journal of Knowledge Engineering*,
+*ETRI Journal*,
 *Chinese Journal of Computers*,
 *Computer Science*.
 
