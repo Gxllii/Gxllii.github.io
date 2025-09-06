@@ -15,7 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
-- *2025.07*: 🎉 DyPARS is accepted by [CGO (CCF-B)][999].
+- *2025.07*: 🎉 DyPARS is accepted by [CGO (CCF-B)][113].
 - *2025.07*: 🎉 Awarded the [CAAI-MindSpore Open Fund][999] for research on DL frameworks.
 - *2025.05*: 🎉 TopServe is accepted by [EURO-PAR (CCF-B)][112]. 
 - *2025.01*: 🎉 OptiFX is accepted by [TACO (CCF-A)][108].   
@@ -29,8 +29,8 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 # 📝 Publications 
 (*\* indicates the corresponding author*)
 * ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-shape DNN optimization via Pareto-aware MCTS for graph variants][999]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
-* ``CCF-B`` ``EURO-PAR'25`` [TopServe: Task-operator co-scheduling for efficient multi-DNN inference serving on GPUs][999]. Ao Chen, **Guangli Li\***, Feng Yu, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International European Conference on Parallel and Distributed Computing, 2025.
-* ``CCF-T1`` ``JOS'25`` [BIVM: Compilation framework for brain-inspired computing and prototype research][999]. Le Yang, Xiaoyi Liu, **Guangli Li**, Peng Qu, Huimin Cui, Youhui Zhang. Journal of Software, 2025.  
+* ``CCF-B`` ``EURO-PAR'25`` [TopServe: Task-operator co-scheduling for efficient multi-DNN inference serving on GPUs][228]. Ao Chen, **Guangli Li\***, Feng Yu, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International European Conference on Parallel and Distributed Computing, 2025.
+* ``CCF-T1`` ``JOS'25`` [BIVM: Compilation framework for brain-inspired computing and prototype research][227]. Le Yang, Xiaoyi Liu, **Guangli Li**, Peng Qu, Huimin Cui, Youhui Zhang. Journal of Software, 2025.  
 * ``CCF-A`` ``TACO'25``  [OptiFX: Automatic optimization for convolutional neural networks with aggressive operator fusion on GPUs][226]. Xueying Wang, Shigang Li\*, Hao Qian, Fan Luo, Zhaoyang Hao, Tong Wu, Ruiyuan Xu, Huimin Cui, Xiaobing Feng, **Guangli Li\***, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2025: 1-27.   
 * ``CCF-B`` ``COLING'25`` [ProSparse: Introducing and enhancing intrinsic activation sparsity within large language models][225]. Chenyang Song, Xu Han, Zhengyan Zhang, Shengding Hu, Xiyu Shi, Kuai Li, Chen Chen, Zhiyuan Liu, **Guangli Li**, Tao Yang, Maosong Sun. International Conference on Computational Linguistics, 2025: 1-19.  
 * ``CCF-C`` ``ISPA'25`` [CharTuner: Characteristic analysis and design space reduction for efficient tensor program tuning on ROCm platforms][999]. Yanxia Wu, Xiangbo Xu, Ao Chen, Xueying Wang, **Guangli Li\***, Huimin Cui. IEEE International Symposium on Parallel and Distributed Processing with Applications, 2025.
@@ -163,6 +163,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [110]:https://www.sciencedirect.com/journal/benchcouncil-transactions-on-benchmarks-standards-and-evaluations
 [111]:https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2024-07-31/828381.shtml
 [112]:https://2025.euro-par.org/
+[113]:https://2026.cgo.org/
 [201]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_1
 [202]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40
 [203]:https://ieeexplore.ieee.org/abstract/document/8891649/
@@ -189,4 +190,6 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [224]:https://dl.acm.org/doi/10.1145/3620665.3640390
 [225]:https://arxiv.org/abs/2402.13516
 [226]:https://dl.acm.org/doi/10.1145/3716876
+[227]:https://www.jos.org.cn/jos/article/html/7420
+[228]:https://link.springer.com/chapter/10.1007/978-3-031-99857-7_21
 [999]:https://gxllii.github.io/
