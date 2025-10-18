@@ -98,6 +98,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)*,
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*,
 *IEEE Transactions on Network and Service Management (TNSM)*,
+*IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)*,
 *IEEE Journal on Selected Areas in Communications (JSAC)*,
 *IEEE Internet of Things Journal (IoT-J)*,
 *IEEE Design & Test (D&T)*,
