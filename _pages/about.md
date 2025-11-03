@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2025.11*: 🎉 Platensor and PriTran are accepted by [CGO (CCF-B)][113].
 - *2025.07*: 🎉 DyPARS is accepted by [CGO (CCF-B)][113].
 - *2025.07*: 🎉 Awarded the [CAAI-MindSpore Open Fund][999] for research on DL frameworks.
 - *2025.05*: 🎉 TopServe is accepted by [EURO-PAR (CCF-B)][112]. 
@@ -28,6 +29,8 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
+* ``CCF-B`` ``CGO'26`` [Progressive low-precision approximation of Tensor Operators on GPUs: Enabling greater trade-offs between performance and accuracy][999]. Fan Luo, **Guangli Li\***, Zhaoyang Hao, Xueying Wang, Xiaobing Feng, Huimin Cui, Jingling Xue. International Symposium on Code Generation and Optimization, 2026.
+* ``CCF-B`` ``CGO'26`` [PriTran: Privacy-preserving inference for Transformer-based language models under fully homomorphic encryption][999]. Yuechen Mu, **Guangli Li\***, Shiping Chen, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
 * ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-shape DNN optimization via Pareto-aware MCTS for graph variants][999]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
 * ``CCF-A`` ``NeurIPS'25`` [Mutual-supervised learning for sequential-to-parallel code translation][999]. Changxin Ke, Rui Zhang, Shuo Wang, Li Ding, **Guangli Li**, Yuanbo Wen, Shuoming Zhang, Ruiyuan Xu, Jin Qin, Jiaming Guo, Chenxi Wang, Ling Li, Qi Guo, Yunji Chen. The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025. 
 * ``CCF-T1`` ``JOS'25`` [BIVM: Compilation framework for brain-inspired computing and prototype research][227]. Le Yang, Xiaoyi Liu, **Guangli Li**, Peng Qu, Huimin Cui, Youhui Zhang. Journal of Software, 2025.
