@@ -16,10 +16,11 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 🔥 News
 - *2025.11*: 🎉 Platensor and PriTran are accepted by [CGO (CCF-B)][113].
+- *2025.10*: 🎉 Awarded the Outstanding Project in [2024 CCF-Tencent Open Fund][111].
 - *2025.07*: 🎉 DyPARS is accepted by [CGO (CCF-B)][113].
 - *2025.07*: 🎉 Awarded the [CAAI-MindSpore Open Fund][999] for research on DL frameworks.
-- *2025.05*: 🎉 TopServe is accepted by [EURO-PAR (CCF-B)][112]. 
-- *2025.01*: 🎉 OptiFX is accepted by [TACO (CCF-A)][108].   
+- *2025.05*: 🎉 TopServe is accepted by [EURO-PAR (CCF-B)][112].
+- *2025.01*: 🎉 OptiFX is accepted by [TACO (CCF-A)][108]. 
 - *2024.07*: 🎉 Awarded the [CCF-Tencent Open Fund][111] for research on LLM serving.
 - *2024.01*: 🎉 Our work on characterizing DNN batching systems is accepted by [TBench][110].
 - *2023.11*: 🎉 LoWino is accepted by [TACO (CCF-A)][108].   
