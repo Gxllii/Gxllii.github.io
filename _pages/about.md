@@ -105,6 +105,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *IEEE Transactions on Network and Service Management (TNSM)*,
 *IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)*,
 *IEEE Transactions on Cybernetics (TCYB)*,
+*IEEE Transactions on Services Computing (TSC)*, 
 *IEEE Journal on Selected Areas in Communications (JSAC)*,
 *IEEE Internet of Things Journal (IoT-J)*,
 *IEEE Design & Test (D&T)*,
