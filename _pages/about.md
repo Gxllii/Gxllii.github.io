@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2026.02*: 🎉 Awarded the Distinguished Artifact Award at [CGO2026][113].
 - *2025.11*: 🎉 Platensor and PriTran are accepted by [CGO (CCF-B)][113].
 - *2025.10*: 🎉 Awarded the Outstanding Project in [2024 CCF-Tencent Open Fund][111].
 - *2025.07*: 🎉 DyPARS is accepted by [CGO (CCF-B)][113].
