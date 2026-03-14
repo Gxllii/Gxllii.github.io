@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2026.03*: 📢 [AI4HPCC'26][114] Workshop is now open for submissions. Contributions are welcome.
 - *2026.02*: 🎉 Awarded the Distinguished Artifact Award at [CGO 2026][113].
 - *2025.11*: 🎉 Platensor and PriTran are accepted by [CGO (CCF-B)][113].
 - *2025.10*: 🎉 Awarded the Outstanding Project in [2024 CCF-Tencent Open Fund][111].
@@ -83,6 +84,7 @@ CCF-Huawei Populus Grove Fund, Principal Investigator, 2022-2023.
 CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 
 # 🏢 Professional Services
+* Program Committee Member for *AI for High Performance Compiler Construction Workshop (AI4HPCC’26), 2026*
 * Program Committee Member for *29th ACM SIGOPS China Workshop on Computer Systems (ChinaSys’25 Winter), 2025*
 * Program Committee Member for *National Annual Conference on High Performance Computing (CCF HPC China), 2025*
 * Program Committee Member for *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 2025*  
@@ -179,6 +181,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [111]:https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2024-07-31/828381.shtml
 [112]:https://2025.euro-par.org/
 [113]:https://2026.cgo.org/
+[114]:https://ai4hpcc.github.io/ai4hpcc-2026/
 [201]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_1
 [202]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40
 [203]:https://ieeexplore.ieee.org/abstract/document/8891649/
