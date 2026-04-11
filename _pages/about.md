@@ -32,6 +32,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
+* ``CCF-A`` ``OSDI'26`` [A GPU memory allocator with device-side page table materialization and deferred TLB coherence][999]. Yangyu Zhang, Lei Chen, Chunwei Xia, Shuaijiang Li, Shuoming Zhang, Zhicheng Li, Qianqi Sun, Jiawei Xiao, Ruiyuan Xu, Ao Chen, **Guangli Li**, Xiaobing Feng, Huimin Cui, Chenxi Wang, Jiacheng Zhao. 20th USENIX Symposium on Operating Systems Design and Implementation, 2026.
 * ``CCF-B`` ``CGO'26`` [Progressive low-precision approximation of Tensor Operators on GPUs: Enabling greater trade-offs between performance and accuracy][999]. Fan Luo, **Guangli Li\***, Zhaoyang Hao, Xueying Wang, Xiaobing Feng, Huimin Cui, Jingling Xue. International Symposium on Code Generation and Optimization, 2026.
 * ``CCF-B`` ``CGO'26`` [PriTran: Privacy-preserving inference for Transformer-based language models under fully homomorphic encryption][999]. Yuechen Mu, **Guangli Li\***, Shiping Chen, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
 * ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-shape DNN optimization via Pareto-aware MCTS for graph variants][999]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026. (*Distinguished Artifact Award* 🏅)
