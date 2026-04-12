@@ -33,9 +33,9 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 # 📝 Publications 
 (*\* indicates the corresponding author*)
 * ``CCF-A`` ``OSDI'26`` [A GPU memory allocator with device-side page table materialization and deferred TLB coherence][999]. Yangyu Zhang, Lei Chen, Chunwei Xia, Shuaijiang Li, Shuoming Zhang, Zhicheng Li, Qianqi Sun, Jiawei Xiao, Ruiyuan Xu, Ao Chen, **Guangli Li**, Xiaobing Feng, Huimin Cui, Chenxi Wang, Jiacheng Zhao. 20th USENIX Symposium on Operating Systems Design and Implementation, 2026.
-* ``CCF-B`` ``CGO'26`` [Progressive low-precision approximation of Tensor Operators on GPUs: Enabling greater trade-offs between performance and accuracy][999]. Fan Luo, **Guangli Li\***, Zhaoyang Hao, Xueying Wang, Xiaobing Feng, Huimin Cui, Jingling Xue. International Symposium on Code Generation and Optimization, 2026.
-* ``CCF-B`` ``CGO'26`` [PriTran: Privacy-preserving inference for Transformer-based language models under fully homomorphic encryption][999]. Yuechen Mu, **Guangli Li\***, Shiping Chen, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
-* ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-shape DNN optimization via Pareto-aware MCTS for graph variants][999]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026. (*Distinguished Artifact Award* 🏅)
+* ``CCF-B`` ``CGO'26`` [Progressive low-precision approximation of tensor operators on GPUs: Enabling greater trade-offs between performance and accuracy][232]. Fan Luo, **Guangli Li\***, Zhaoyang Hao, Xueying Wang, Xiaobing Feng, Huimin Cui, Jingling Xue. International Symposium on Code Generation and Optimization, 2026.
+* ``CCF-B`` ``CGO'26`` [PriTran: Privacy-preserving inference for Transformer-based language models under fully homomorphic encryption][231]. Yuechen Mu, **Guangli Li\***, Shiping Chen, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
+* ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-shape DNN optimization via Pareto-aware MCTS for graph variants][230]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026. (*Distinguished Artifact Award* 🏅)
 * ``CCF-A`` ``NeurIPS'25`` [QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation][229]. Changxin Ke, Rui Zhang, Shuo Wang, Li Ding, **Guangli Li**, Yuanbo Wen, Shuoming Zhang, Ruiyuan Xu, Jin Qin, Jiaming Guo, Chenxi Wang, Ling Li, Qi Guo, Yunji Chen. The Thirty-Ninth Annual Conference on Neural Information Processing Systems, 2025. 
 * ``CCF-T1`` ``JOS'25`` [BIVM: Compilation framework for brain-inspired computing and prototype research][227]. Le Yang, Xiaoyi Liu, **Guangli Li**, Peng Qu, Huimin Cui, Youhui Zhang. Journal of Software, 2025.
 * ``CCF-B`` ``EURO-PAR'25`` [TopServe: Task-operator co-scheduling for efficient multi-DNN inference serving on GPUs][228]. Ao Chen, **Guangli Li\***, Feng Yu, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. International European Conference on Parallel and Distributed Computing, 2025: 292-305.
@@ -212,4 +212,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [227]:https://www.jos.org.cn/jos/article/html/7420
 [228]:https://link.springer.com/chapter/10.1007/978-3-031-99857-7_21
 [229]:https://arxiv.org/abs/2506.11153
+[230]:https://ieeexplore.ieee.org/document/11395218
+[231]:https://ieeexplore.ieee.org/document/11395232
+[232]:https://ieeexplore.ieee.org/abstract/document/11395227
 [999]:https://gxllii.github.io/
