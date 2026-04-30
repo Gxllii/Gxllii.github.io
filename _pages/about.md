@@ -130,6 +130,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *Neurocomputing*,
 *Engineering Applications of Artificial Intelligence*,
 *Expert Systems: The Journal of Knowledge Engineering*,
+*Expert Systems With Applications*, 
 *The Visual Computer*,
 *ETRI Journal*,
 *Chinese Journal of Computers*,
