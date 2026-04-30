@@ -87,6 +87,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 
 # 🏢 Professional Services
 * Program Committee Member for *AI for High Performance Compiler Construction Workshop (AI4HPCC’26), 2026*
+* Program Committee Member for *30th ACM SIGOPS China Workshop on Computer Systems (ChinaSys’26 Spring), 2026*
 * Program Committee Member for *29th ACM SIGOPS China Workshop on Computer Systems (ChinaSys’25 Winter), 2025*
 * Program Committee Member for *National Annual Conference on High Performance Computing (CCF HPC China), 2025*
 * Program Committee Member for *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 2025*  
