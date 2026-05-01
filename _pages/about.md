@@ -15,8 +15,8 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
-- *2026.05*: 🎉 LEGO and CONTINUUM are accepted by [ICML (CCF-A)][115].
-- *2026.05*: 🎉 DACOS is accepted by [EURO-PAR (CCF-B)][114].
+- *2026.05*: 🎉 LEGO and CONTINUUM are accepted by [ICML (CCF-A)][116].
+- *2026.05*: 🎉 DACOS is accepted by [EURO-PAR (CCF-B)][115].
 - *2026.02*: 🎉 Awarded the Distinguished Artifact Award at [CGO 2026][113].
 - *2025.11*: 🎉 Platensor and PriTran are accepted by [CGO (CCF-B)][113].
 - *2025.10*: 🎉 Awarded the Outstanding Project in [2024 CCF-Tencent Open Fund][111].
@@ -191,7 +191,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [113]:https://2026.cgo.org/
 [114]:https://ai4hpcc.github.io/ai4hpcc-2026/
 [115]:https://2026.euro-par.org/
-[115]:https://icml.cc/
+[116]:https://icml.cc/
 [201]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_1
 [202]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40
 [203]:https://ieeexplore.ieee.org/abstract/document/8891649/
