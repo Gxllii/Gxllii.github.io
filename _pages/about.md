@@ -15,8 +15,8 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
-- *2026.05*: 🎉 LEGO and CONTINUUM are accepted by [ICML (CCF-A)][999].
-- *2026.05*: 🎉 DACOS is accepted by [EURO-PAR (CCF-B)][999].
+- *2026.05*: 🎉 LEGO and CONTINUUM are accepted by [ICML (CCF-A)][115].
+- *2026.05*: 🎉 DACOS is accepted by [EURO-PAR (CCF-B)][114].
 - *2026.02*: 🎉 Awarded the Distinguished Artifact Award at [CGO 2026][113].
 - *2025.11*: 🎉 Platensor and PriTran are accepted by [CGO (CCF-B)][113].
 - *2025.10*: 🎉 Awarded the Outstanding Project in [2024 CCF-Tencent Open Fund][111].
@@ -34,10 +34,10 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 # 📝 Publications 
 (*\* indicates the corresponding author*)
 * ``CCF-A`` ``ICML'26`` [LEGO: An LLM-enabled hierarchical optimizer for tensor computation graphs with structure-aware search and compositional synthesis.][999] Ruiyuan Xu, Shuoming Zhang, **Guangli Li\***, Qiuchu Yu, Rui Zhang, Yangyu Zhang, Hao Qian, Chunwei Xia, Jiacheng Zhao, Chenxi Wang, Xiaobing Feng, Jingling Xue, Huimin Cui. International Conference on Machine Learning, 2026.
-* ``CCF-A`` ``ICML'26`` [CONTINUUM: Restoring the contiguous tensor abstraction efficiently for dynamic AI workloads via hardware virtualization.][999] Yangyu Zhang, Shuoming Zhang, Chunwei Xia, Shuaijiang Li, Zhicheng Li, Ruiyuan Xu, Zheming Yang, Lei Chen, Yuan Wen, **Guangli Li**, Xiaobing Feng, Huimin Cui, Jiacheng Zhao. International Conference on Machine Learning, 2026.  (*Spotlight Paper* 🌟)
+* ``CCF-A`` ``ICML'26`` [CONTINUUM: Restoring the contiguous tensor abstraction efficiently for dynamic AI workloads via hardware virtualization.][999] Yangyu Zhang, Shuoming Zhang, Chunwei Xia, Shuaijiang Li, Zhicheng Li, Ruiyuan Xu, Zheming Yang, Lei Chen, Yuan Wen, **Guangli Li**, Xiaobing Feng, Huimin Cui, Jiacheng Zhao. International Conference on Machine Learning, 2026.  (*Spotlight Paper* ✨)
 * ``CCF-B`` ``EURO-PAR'26`` [DACOS: Dependency-aware cross-kernel overlapping for optimizing short-sequence workloads in LLM applications.][999] Zhaoyang Hao, **Guangli Li\***, Fan Luo, Hao Qian, Xueying Wang, Jiacheng Zhao, Xiaobing Feng, Huimin Cui, Jingling Xue. International European Conference on Parallel and Distributed Computing, 2026.
 * ``CCF-A`` ``OSDI'26`` [A GPU memory allocator with device-side page table materialization and deferred TLB coherence][999]. Yangyu Zhang, Lei Chen, Chunwei Xia, Shuaijiang Li, Shuoming Zhang, Zhicheng Li, Qianqi Sun, Jiawei Xiao, Ruiyuan Xu, Ao Chen, **Guangli Li**, Xiaobing Feng, Huimin Cui, Chenxi Wang, Jiacheng Zhao. 20th USENIX Symposium on Operating Systems Design and Implementation, 2026.
-* ``CCF-A`` ``SCIS'26`` [Large processor chip model][999]. Kaiyan Chang, Mingzhi Chen, Yunji Chen, Zhirong Chen, Dongrui Fan, Junfeng Gong, Nan Guo, Yinhe Han, Qinfen Hao, Shuo Hou, Xuan Huang, Pengwei Jin, Changxin Ke, Cangyuan Li, **Guangli Li**, Huawei Li, Kuan Li, Naipeng Li, Shengwen Liang, Cheng Liu, Hongwei Liu, Jiahua Liu, Junliang Lv, Jianan Mu, Jin Qin, Bin Sun, Chenxi Wang, Duo Wang, Mingjun Wang, Ying Wang, Chenggang Wu, Peiyang Wu, Teng Wu, Xiao Xiao, Mengyao Xie, Chenwei Xiong, Ruiyuan Xu, Mingyu Yan, Xiaochun Ye, Kuai Yu, Rui Zhang, Shuoming Zhang, Jiacheng Zhao. Science China Information Sciences, 2026.
+* ``CCF-A`` ``SCIS'26`` [Large processor chip model][233]. Kaiyan Chang, Mingzhi Chen, Yunji Chen, Zhirong Chen, Dongrui Fan, Junfeng Gong, Nan Guo, Yinhe Han, Qinfen Hao, Shuo Hou, Xuan Huang, Pengwei Jin, Changxin Ke, Cangyuan Li, **Guangli Li**, Huawei Li, Kuan Li, Naipeng Li, Shengwen Liang, Cheng Liu, Hongwei Liu, Jiahua Liu, Junliang Lv, Jianan Mu, Jin Qin, Bin Sun, Chenxi Wang, Duo Wang, Mingjun Wang, Ying Wang, Chenggang Wu, Peiyang Wu, Teng Wu, Xiao Xiao, Mengyao Xie, Chenwei Xiong, Ruiyuan Xu, Mingyu Yan, Xiaochun Ye, Kuai Yu, Rui Zhang, Shuoming Zhang, Jiacheng Zhao. Science China Information Sciences, 2026.
 * ``CCF-B`` ``CGO'26`` [Progressive low-precision approximation of tensor operators on GPUs: Enabling greater trade-offs between performance and accuracy][232]. Fan Luo, **Guangli Li\***, Zhaoyang Hao, Xueying Wang, Xiaobing Feng, Huimin Cui, Jingling Xue. International Symposium on Code Generation and Optimization, 2026.
 * ``CCF-B`` ``CGO'26`` [PriTran: Privacy-preserving inference for Transformer-based language models under fully homomorphic encryption][231]. Yuechen Mu, **Guangli Li\***, Shiping Chen, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026.
 * ``CCF-B`` ``CGO'26`` [DyPARS: Dynamic-shape DNN optimization via Pareto-aware MCTS for graph variants][230]. Hao Qian, **Guangli Li\***, Qiuchu Yu, Xueying Wang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2026. (*Distinguished Artifact Award* 🏅)
@@ -190,6 +190,8 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [112]:https://2025.euro-par.org/
 [113]:https://2026.cgo.org/
 [114]:https://ai4hpcc.github.io/ai4hpcc-2026/
+[115]:https://2026.euro-par.org/
+[115]:https://icml.cc/
 [201]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_1
 [202]:https://link.springer.com/chapter/10.1007/978-3-030-01418-6_40
 [203]:https://ieeexplore.ieee.org/abstract/document/8891649/
@@ -222,4 +224,5 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 [230]:https://ieeexplore.ieee.org/document/11395218
 [231]:https://ieeexplore.ieee.org/document/11395232
 [232]:https://ieeexplore.ieee.org/abstract/document/11395227
+[233]:https://link.springer.com/article/10.1007/s11432-025-4739-1
 [999]:https://gxllii.github.io/
