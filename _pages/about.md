@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2026.05*: 🎉 MoonPoly is accepted by [TACO (CCF-A)][108].
 - *2026.05*: 🎉 LEGO and CONTINUUM are accepted by [ICML (CCF-A)][116].
 - *2026.05*: 🎉 DACOS is accepted by [EURO-PAR (CCF-B)][115].
 - *2026.02*: 🎉 Awarded the Distinguished Artifact Award at [CGO 2026][113].
@@ -27,6 +28,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
+* ``CCF-A`` ``TACO'26`` [MoonPoly: Bridging code generation and adaptive execution via micro-kernel polymerization for optimizing dynamic-shape tensor operators.][999] Yangyu Zhang, **Guangli Li\***, Feng Yu, Fan Luo, Qianqi Sun, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2026.
 * ``CCF-A`` ``ICML'26`` [LEGO: An LLM-enabled hierarchical optimizer for tensor computation graphs with structure-aware search and compositional synthesis.][999] Ruiyuan Xu, Shuoming Zhang, **Guangli Li\***, Qiuchu Yu, Rui Zhang, Yangyu Zhang, Hao Qian, Chunwei Xia, Jiacheng Zhao, Chenxi Wang, Xiaobing Feng, Jingling Xue, Huimin Cui. International Conference on Machine Learning, 2026.
 * ``CCF-A`` ``ICML'26`` [CONTINUUM: Restoring the contiguous tensor abstraction efficiently for dynamic AI workloads via hardware virtualization.][999] Yangyu Zhang, Shuoming Zhang, Chunwei Xia, Shuaijiang Li, Zhicheng Li, Ruiyuan Xu, Zheming Yang, Lei Chen, Yuan Wen, **Guangli Li**, Xiaobing Feng, Huimin Cui, Jiacheng Zhao. International Conference on Machine Learning, 2026.  (*Spotlight Paper* ✨)
 * ``CCF-B`` ``EURO-PAR'26`` [DACOS: Dependency-aware cross-kernel overlapping for optimizing short-sequence workloads in LLM applications.][999] Zhaoyang Hao, **Guangli Li\***, Fan Luo, Hao Qian, Xueying Wang, Jiacheng Zhao, Xiaobing Feng, Huimin Cui, Jingling Xue. International European Conference on Parallel and Distributed Computing, 2026.
