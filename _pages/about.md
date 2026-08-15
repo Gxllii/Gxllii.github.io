@@ -86,6 +86,7 @@ CCF-Huawei Populus Grove Fund, Principal Investigator, 2022-2023.
 CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 
 # 🏢 Professional Services
+* Program Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2027*
 * Program Committee Member for *AI for High Performance Compiler Construction Workshop (AI4HPCC’26), 2026*
 * Program Committee Member for *30th ACM SIGOPS China Workshop on Computer Systems (ChinaSys’26 Spring), 2026*
 * Program Committee Member for *29th ACM SIGOPS China Workshop on Computer Systems (ChinaSys’25 Winter), 2025*
@@ -93,7 +94,6 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 * Program Committee Member for *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 2025*  
 * Program Committee Member for *International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2024-2025*
 * Program Committee Member for *BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench), 2022-2025*  
-* Program Committee Member for *International Conference on Artificial Neural Networks (ICANN), 2018*
 * Artifact Evaluation Committee Member for *International Symposium on Code Generation and Optimization (CGO), 2022*  
 * Journal Reviewer: *IEEE Transactions on Computers (TC)*,
 *IEEE Transactions on Parallel and Distributed Systems (TPDS)*,
