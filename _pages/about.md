@@ -15,7 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
-- *2026.08*: 🎉 FHE-CodeEval is accepted by EMNLP (CCF-B)[999].
+- *2026.08*: 🎉 FHE-CodeEval is accepted by [EMNLP (CCF-B)][999].
 - *2026.05*: 🎉 MoonPoly is accepted by [TACO (CCF-A)][108].
 - *2026.05*: 🎉 LEGO and CONTINUUM are accepted by [ICML (CCF-A)][116].
 - *2026.05*: 🎉 DACOS is accepted by [EURO-PAR (CCF-B)][115].
