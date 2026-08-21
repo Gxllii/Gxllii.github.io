@@ -15,6 +15,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
 # 🔥 News
+- *2026.08*: 🎉 FHE-CodeEval is accepted by EMNLP (CCF-B)[999].
 - *2026.05*: 🎉 MoonPoly is accepted by [TACO (CCF-A)][108].
 - *2026.05*: 🎉 LEGO and CONTINUUM are accepted by [ICML (CCF-A)][116].
 - *2026.05*: 🎉 DACOS is accepted by [EURO-PAR (CCF-B)][115].
@@ -28,6 +29,7 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
+* ``CCF-B`` ``EMNLP'26`` [FHE-CodeEval: Benchmarking Large Language Models for Fully Homomorphic Encryption Code Generation.][999] Qiuchu Yu, **Guangli Li\***, Shuoming Zhang, Ruiyuan Xu, Qihan Cai, Jingling Xue, Xiaobing Feng, Huimin Cui. The 2026 Conference on Empirical Methods in Natural Language Processing, 2026. 
 * ``CCF-A`` ``TACO'26`` [MoonPoly: Bridging code generation and adaptive execution via micro-kernel polymerization for optimizing dynamic-shape tensor operators.][237] Yangyu Zhang, **Guangli Li\***, Feng Yu, Fan Luo, Qianqi Sun, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2026.
 * ``CCF-A`` ``ICML'26`` [LEGO: An LLM-enabled hierarchical optimizer for tensor computation graphs with structure-aware search and compositional synthesis.][236] Ruiyuan Xu, Shuoming Zhang, **Guangli Li\***, Qiuchu Yu, Rui Zhang, Yangyu Zhang, Hao Qian, Chunwei Xia, Jiacheng Zhao, Chenxi Wang, Xiaobing Feng, Jingling Xue, Huimin Cui. International Conference on Machine Learning, 2026.
 * ``CCF-A`` ``ICML'26`` [CONTINUUM: Restoring the contiguous tensor abstraction efficiently for dynamic AI workloads via hardware virtualization.][235] Yangyu Zhang, Shuoming Zhang, Chunwei Xia, Shuaijiang Li, Zhicheng Li, Ruiyuan Xu, Zheming Yang, Lei Chen, Yuan Wen, **Guangli Li**, Xiaobing Feng, Huimin Cui, Jiacheng Zhao. International Conference on Machine Learning, 2026.  (*Spotlight Paper* ✨)
