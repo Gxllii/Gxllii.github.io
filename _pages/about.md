@@ -129,6 +129,7 @@ CCF-Baidu Open Fund, Principal Investigator, 2022-2023.
 *Journal of Systems Architecture (JSA)*,
 *The Journal of Supercomputing (TJSC)*,
 *Frontiers of Computer Science (FCS)*,
+*Future Generation Computer Systems (FGCS)*,
 *BenchCouncil Transactions on Benchmarks, Standards and Evaluations (TBench)*,
 *Machine Intelligence Research (MIR)*,
 *Knowledge-Based Systems (KBS)*,
