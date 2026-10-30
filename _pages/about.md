@@ -74,6 +74,8 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 * ``CCF-C`` ``ICANN'18`` [Fast CNN pruning via redundancy-aware training][201]. Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. International Conference on Artificial Neural Networks, 2018: 3-13.
 
 # 📑 Funding and Grants
+* *Research on On-device Memory Mechanisms and Efficient Storage-Playback Mechanisms for Edge Intelligence.*
+Beijing Natural Science Foundation (Key Program), Co-Investigator, 2026-2028.
 * *Research on Key Technologies of Semantic-Fusion Compilation for Intelligent Application Automatic Differentiation.*  
 National Natural Science Foundation of China (Young Scientists Fund), Principal Investigator, 2024-2026.
 * *Research on Efficient Dynamic Graph Operator Dispatching Mechanism and Runtime Optimization.*  
