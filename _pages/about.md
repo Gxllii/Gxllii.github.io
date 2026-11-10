@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am an Associate Professor at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree from the University of Chinese Academy of Sciences supervised by [Prof. Xiaobing Feng][3], and received my M.S. degree and B.S. degree from the College of Computer Science and Technology, Jilin University.   
-I am a member of the programming languages and compilers group (led by [Prof. Huimin Cui][7]) at ICT, CAS. I am also a visiting fellow of the CORG group (led by [Prof. Jingling Xue][8]) at UNSW Sydney. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging AI applications and accelerators. I have published 40+ papers in prestigious conferences and journals such as ASPLOS, CGO, TACO, and TCAD.
+I am a member of the programming languages and compilers group (led by [Prof. Huimin Cui][7]) at ICT, CAS. I am also a visiting fellow of the CORG group (led by [Prof. Jingling Xue][8]) at UNSW Sydney. My research interests lie at the intersection of programming systems and artificial intelligence. My current research focuses on programming languages, compilers, and run-time systems for emerging applications and accelerators. I have published 40+ papers in prestigious conferences and journals such as ASPLOS, CGO, TACO, and TCAD.
 
 **We are looking for self-motivated students in deep learning systems and compilers. Please send me an email with your CV if interested.**  
 
@@ -31,6 +31,9 @@ I am a member of the programming languages and compilers group (led by [Prof. Hu
 
 # 📝 Publications 
 (*\* indicates the corresponding author*)
+* ``CCF-B`` ``CGO'27`` [DySTOR: Shape-Adaptive Tile-Task Orchestration for Dynamic-Shape Tensor Programs.][999] Hao Qian, **Guangli Li\***, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2027.
+* ``CCF-B`` ``CGO'27`` [DyGE: Exploiting Operator Dispatch Pipelines for Efficient Dynamic-Graph Execution of Neural Networks on Ascend NPUs.][999] Qiuchu Yu, Zhaoyang Hao, **Guangli Li\***, Xiaobing Feng, Jingling Xue, Huimin Cui. International Symposium on Code Generation and Optimization, 2027.
+* ``CCF-B`` ``CGO'27`` [SlotFit: Throughput-Oriented Packing for FHE Transformer Inference under Dynamic Inputs.][999] Yuechen Mu, **Guangli Li\***, Qihan Cai, Zhongcheng Zhang, Qiuchu Yu, Xiaobing Feng, Huimin Cui, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2027.
 * ``CCF-B`` ``CGO'27`` [HaloED: Halo-preserving encrypted CNN encoder–decoder inference under CKKS.][999] Qihan Cai, **Guangli Li\***, Yibing Xu, Yuechen Mu, Qiuchu Yu, Zhongcheng Zhang, Jingling Xue\*. International Symposium on Code Generation and Optimization, 2027.
 * ``CCF-B`` ``EMNLP'26`` [FHE-CodeEval: Benchmarking large language models for fully homomorphic encryption code generation.][999] Qiuchu Yu, **Guangli Li\***, Shuoming Zhang, Ruiyuan Xu, Qihan Cai, Jingling Xue, Xiaobing Feng, Huimin Cui. The 2026 Conference on Empirical Methods in Natural Language Processing, 2026. 
 * ``CCF-A`` ``TACO'26`` [MoonPoly: Bridging code generation and adaptive execution via micro-kernel polymerization for optimizing dynamic-shape tensor operators.][237] Yangyu Zhang, **Guangli Li\***, Feng Yu, Fan Luo, Qianqi Sun, Xueying Wang, Jiacheng Zhao, Huimin Cui, Xiaobing Feng, Jingling Xue. ACM Transactions on Architecture and Code Optimization, 2026.
